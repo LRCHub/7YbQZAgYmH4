@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Crazy Stupid Love",
+  "base_artist": "Emei",
+  "createdAt": "2026-02-28T15:20:29.147803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl Cole feat. Tinie Tempah",
+      "has_synced": true,
+      "path": "select/01_Crazy_Stupid_Love_Cheryl_Cole_feat._Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "My Crazy Girlfriend",
+      "has_synced": true,
+      "path": "select/02_Crazy_Stupid_Love_My_Crazy_Girlfriend.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl feat. Tinie Tempah",
+      "has_synced": true,
+      "path": "select/03_Crazy_Stupid_Love_Cheryl_feat._Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CRAZY STUPID LOVE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_CRAZY_STUPID_LOVE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl",
+      "has_synced": true,
+      "path": "select/05_Crazy_Stupid_Love_Cheryl.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love (Feat. Tinie Tempah)",
+      "artist": "Cheryl Cole",
+      "has_synced": true,
+      "path": "select/06_Crazy_Stupid_Love_(Feat._Tinie_Tempah)_Cheryl_Cole.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love (feat. Tinie Tempah)",
+      "artist": "Cheryl",
+      "has_synced": true,
+      "path": "select/07_Crazy_Stupid_Love_(feat._Tinie_Tempah)_Cheryl.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl/Cheryl Cole/Tinie Tempah",
+      "has_synced": true,
+      "path": "select/08_Crazy_Stupid_Love_Cheryl_Cheryl_Cole_Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Victoria Duffield",
+      "has_synced": true,
+      "path": "select/09_Crazy_Stupid_Love_Victoria_Duffield.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl Cole",
+      "has_synced": true,
+      "path": "select/10_Crazy_Stupid_Love_Cheryl_Cole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl Cole Feat. Tinie Tempah",
+      "has_synced": true,
+      "path": "select/11_Crazy_Stupid_Love_Cheryl_Cole_Feat._Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love 120",
+      "artist": "Cheryl Cole Feat. Tinie Tempah",
+      "has_synced": true,
+      "path": "select/12_Crazy_Stupid_Love_120_Cheryl_Cole_Feat._Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl/Tinie Tempah",
+      "has_synced": true,
+      "path": "select/13_Crazy_Stupid_Love_Cheryl_Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy Stupid Love",
+      "artist": "Cheryl feat. Tinie Tempah",
+      "has_synced": false,
+      "path": "select/14_Crazy_Stupid_Love_Cheryl_feat._Tinie_Tempah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Stupid Love",
+      "artist": "Emei",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Stupid_Love_Emei.txt"
+    }
+  ]
+}
